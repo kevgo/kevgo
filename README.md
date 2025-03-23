@@ -4,8 +4,8 @@ Here are some open-source tools I created to make software development simpler,
 more ergonomic, and more automated, while working as a contributor or leader in
 the software industry. I hope you find some of them useful! 🙏
 
-- [Git Town](https://github.com/git-town/git-town) helps you synchronize and
-  manage Git branches.
+- [Git Town](https://github.com/git-town/git-town) synchronizes and manages Git
+  branches, which reduces merge conflicts.
 - [Text-Runner](https://github.com/kevgo/text-runner) verifies end-user facing
   documentation of your software product for technical correctness.
 - [Run-that-app](https://github.com/kevgo/run-that-app) executes development
