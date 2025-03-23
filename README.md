@@ -15,13 +15,11 @@ the software industry. I hope you find some of them useful! 🙏
 - [Multi-repo-tool](https://github.com/kevgo/multi-repo-tool) runs CLI commands
   or a custom interactive shell in multiple folders.
 - [Atalanta](https://github.com/kevgo/atalanta) runs tasks defined in
-  `package.json`, `Makefile`, `Rakefile`, etc in a uniform way.
+  `package.json`, `Makefile`, `Rakefile`, etc, in a uniform way.
 - [Tikibase](https://github.com/kevgo/tikibase) is a knowledge base built with
-  extreme longetivity in mind. Tikibase will be useful for the rest of your
-  life!
-- [has](https://github.com/kevgo/has) allows querying a large variety of
-  properties from codebases and Git repositories, like whether files, branches,
-  commits, Make targets, or Node.js dependencies exist.
+  extreme longetivity in mind.
+- [has](https://github.com/kevgo/has) allows scripts to query a large variety of
+  properties from codebases and Git repositories.
 - [VSCode Markdown IDE](https://github.com/kevgo/vscode-markdown-ide) provides
   IDE-grade editing of Markdown files in VSCode.
 
