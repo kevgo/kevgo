@@ -22,8 +22,7 @@ the software industry. I hope you find some of them useful! 🙏
   shell on several repositories using a single command.
 - [Atalanta](https://github.com/kevgo/atalanta) helps work with a large variety
   of code bases by listing and executing development tasks defined in various
-  places (like `package.json`, `Makefile`, `Rakefile`, etc) in a standardized
-  way.
+  places (like `package.json`, `Makefile`, `Rakefile`, etc) in a uniform way.
 - [Tikibase](https://github.com/kevgo/tikibase) is a database-free knowledge
   base, built with extreme longetivity in mind.
 - [has](https://github.com/kevgo/has) allows querying a large variety of
