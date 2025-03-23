@@ -6,10 +6,8 @@ the software industry. I hope you find some of them useful! 🙏
 
 - [Git Town](https://github.com/git-town/git-town) synchronizes and manages Git
   branches, which reduces merge conflicts.
-- [Text-Runner](https://github.com/kevgo/text-runner) is a test framework for
-  arbitrary content written in human languages, e.g. Markdown files. It can be
-  used to verify end-user facing documentation of your software product for
-  technical correctness.
+- [Text-Runner](https://github.com/kevgo/text-runner) verifies content written
+  in human languages for technical correctness.
 - [Contest](https://github.com/contest-framework) reduces the effort to run unit
   tests to zero keystrokes during test-driven development, giving instantaneous
   feedback from your test suite each time you save files in your editor or IDE.
@@ -23,16 +21,16 @@ the software industry. I hope you find some of them useful! 🙏
 - [Atalanta](https://github.com/kevgo/atalanta) helps work with a large variety
   of code bases by listing and executing development tasks defined in various
   places (like `package.json`, `Makefile`, `Rakefile`, etc) in a uniform way.
-- [Tikibase](https://github.com/kevgo/tikibase) is a database-free knowledge
-  base, built with extreme longetivity in mind.
+- [Tikibase](https://github.com/kevgo/tikibase) is a knowledge base built with
+  extreme longetivity in mind. Tikibase will be useful for the rest of your
+  life!
 - [has](https://github.com/kevgo/has) allows querying a large variety of
   properties from codebases and Git repositories, like whether files, branches,
   commits, Make targets, or Node.js dependencies exist.
 - [VSCode Markdown IDE](https://github.com/kevgo/vscode-markdown-ide) provides
   IDE-grade editing of Markdown files in VSCode.
 
-I also open-sourced a number of language-specific libraries. Here is an
-overview:
+I also open-sourced a number of language-specific libraries.
 
 ### Node.js
 
