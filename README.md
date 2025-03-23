@@ -6,8 +6,10 @@ the software industry. I hope you find some of them useful! 🙏
 
 - [Git Town](https://github.com/git-town/git-town) synchronizes and manages Git
   branches, which reduces merge conflicts.
-- [Text-Runner](https://github.com/kevgo/text-runner) verifies end-user facing
-  documentation of your software product for technical correctness.
+- [Text-Runner](https://github.com/kevgo/text-runner) is a test framework for
+  arbitrary content written in human languages (Markdown files). It verifies
+  end-user facing documentation of your software product for technical
+  correctness.
 - [Run-that-app](https://github.com/kevgo/run-that-app) executes development
   tools like linters without you or your users needing to install them.
 - [Contest](https://github.com/contest-framework) helps with test-driven
