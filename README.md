@@ -10,10 +10,10 @@ the software industry. I hope you find some of them useful! 🙏
   arbitrary content written in human languages, e.g. Markdown files. It can be
   used to verify end-user facing documentation of your software product for
   technical correctness.
-- [Contest](https://github.com/contest-framework) helps with test-driven
-  development by executing software test(s) each time you save a file in your
-  editor or IDE. Currently supports
-  [VSCode](https://github.com/contest-framework/vscode) and
+- [Contest](https://github.com/contest-framework) reduces the effort to run unit
+  tests to zero keystrokes during test-driven development, giving instantaneous
+  feedback from your test suite each time you save files in your editor or IDE.
+  Currently supports [VSCode](https://github.com/contest-framework/vscode) and
   [Vim](https://github.com/contest-framework/vim).
 - [Run-that-app](https://github.com/kevgo/run-that-app) executes development
   tools like linters without you or your users needing to install them.
