@@ -1,7 +1,8 @@
-## Greetings! 👋
+## Kevgo's open-source applications
 
-Here are some open-source tools I created to automate boring and repetitive
-activities around software development. I hope you find some of them useful! 🙏
+Hi! 👋 Here are some open-source tools I created to automate boring and
+repetitive activities around software development. I hope you find some of them
+useful! 🙏
 
 - [Git Town](https://github.com/git-town/git-town) synchronizes and manages Git
   branches, which reduces merge conflicts.
@@ -12,7 +13,7 @@ activities around software development. I hope you find some of them useful! �
 - [Run-that-app](https://github.com/kevgo/run-that-app) executes applications
   without the need to install them.
 - [Multi-repo-tool](https://github.com/kevgo/multi-repo-tool) runs CLI commands
-  or a custom interactive shell in multiple folders.
+  or an interactive shell in multiple folders.
 - [Atalanta](https://github.com/kevgo/atalanta) runs tasks defined in
   `package.json`, `Makefile`, `Rakefile`, etc, in a uniform way.
 - [Tikibase](https://github.com/kevgo/tikibase) is a knowledge base built with
@@ -21,8 +22,6 @@ activities around software development. I hope you find some of them useful! �
   properties from codebases and Git repositories.
 - [VSCode Markdown IDE](https://github.com/kevgo/vscode-markdown-ide) provides
   IDE-grade editing of Markdown files in VSCode.
-
-I also open-sourced a number of language-specific libraries.
 
 ### Libraries
 
