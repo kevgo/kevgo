@@ -19,7 +19,7 @@ the software industry. I hope you find some of them useful! 🙏
   development tools without the need to install them.
 - [Multi-repo-tool](https://github.com/kevgo/multi-repo-tool) runs development
   tasks (cloning, compiling, linting, testing, etc) or even a custom interactive
-  shell on many repositories using a single command.
+  shell on several repositories using a single command.
 - [Atalanta](https://github.com/kevgo/atalanta) helps work with a large variety
   of code bases by listing and running development tasks defined in various
   places like `package.json`, `Makefile`, `Rakefile`, etc.
