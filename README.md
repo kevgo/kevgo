@@ -25,11 +25,10 @@ the software industry. I hope you find some of them useful! 🙏
 
 I also open-sourced a number of language-specific libraries.
 
-### Node.js
+### Libraries
 
-- [observable-process](https://github.com/kevgo/observable-process) spawns a
-  custom command in a subshell and allows observing the running process: wait
-  until it has printed something to STDOUT or STDERR
+- [observable-process](https://github.com/kevgo/observable-process) allows
+  waiting for output from a subshell
 - [end-child-processes](https://github.com/kevgo/end-child-processes): ends all
   subprocesses spawned by the current process
 - [jsonc-reader-ts](https://github.com/kevgo/jsonc-reader-ts) reads JSONC files
