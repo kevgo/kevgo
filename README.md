@@ -28,6 +28,7 @@ you find some of them useful for your own work! 🙏
 - [end-child-processes](https://github.com/kevgo/end-child-processes): ends all
   subprocesses spawned by the current process
 - [jsonc-reader-ts](https://github.com/kevgo/jsonc-reader-ts) reads JSONC files
+  in TypeScript.
 - [probot-kit](https://github.com/kevgo/probot-kit) provides tools to build
   GitHub bots.
 - [assert-no-diff](https://github.com/kevgo/assert-no-diff) verifies equality of
