@@ -14,9 +14,8 @@ the software industry. I hope you find some of them useful! 🙏
   without the need to install them.
 - [Multi-repo-tool](https://github.com/kevgo/multi-repo-tool) runs CLI commands
   or a custom interactive shell in multiple folders.
-- [Atalanta](https://github.com/kevgo/atalanta) runs tasks defined in various
-  places (`package.json`, `Makefile`, `Rakefile`) in a uniform way. This helps
-  work on polyglot codebases.
+- [Atalanta](https://github.com/kevgo/atalanta) runs tasks defined in
+  `package.json`, `Makefile`, `Rakefile`, etc in a uniform way.
 - [Tikibase](https://github.com/kevgo/tikibase) is a knowledge base built with
   extreme longetivity in mind. Tikibase will be useful for the rest of your
   life!
