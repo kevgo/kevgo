@@ -35,9 +35,6 @@ you find some of them useful for your own work! 🙏
   ergonomic colors.
 - [node-text-stream-search](https://github.com/kevgo/node-text-stream-search)
   searches for strings or regular expressions in Node.js streams.
-
-### Ruby
-
 - [ActiveCucumber](https://github.com/kevgo/active_cucumber) creates
   [ActiveRecord](https://guides.rubyonrails.org/v8.0/active_record_basics.html)
   objects from
@@ -47,8 +44,5 @@ you find some of them useful for your own work! 🙏
   data tables that can be compared to Cucumber tables.
 - [Kappamaki](https://github.com/kevgo/kappamaki) helps write Cucumber steps
   that define data using natural language.
-
-### Vim
-
 - [jumbo](https://github.com/kevgo/jumbo) is a Vim plugin that jumps between
   code blocks separated by two empty lines.
