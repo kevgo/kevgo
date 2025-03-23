@@ -6,17 +6,17 @@ the software industry. I hope you find some of them useful! 🙏
 
 - [Git Town](https://github.com/git-town/git-town) synchronizes and manages Git
   branches, which reduces merge conflicts.
-- [Text-Runner](https://github.com/kevgo/text-runner) verifies content written
-  in human languages for semantic correctness.
+- [Text-Runner](https://github.com/kevgo/text-runner) verifies text written in
+  human language for semantic correctness.
 - [Contest](https://github.com/contest-framework) automatically runs run unit
   tests during development.
 - [Run-that-app](https://github.com/kevgo/run-that-app) executes applications
   without the need to install them.
 - [Multi-repo-tool](https://github.com/kevgo/multi-repo-tool) runs CLI commands
   or a custom interactive shell in multiple folders.
-- [Atalanta](https://github.com/kevgo/atalanta) helps work with a large variety
-  of code bases by listing and executing development tasks defined in various
-  places (like `package.json`, `Makefile`, `Rakefile`, etc) in a uniform way.
+- [Atalanta](https://github.com/kevgo/atalanta) runs tasks defined in various
+  places (`package.json`, `Makefile`, `Rakefile`) in a uniform way. This helps
+  work on polyglot codebases.
 - [Tikibase](https://github.com/kevgo/tikibase) is a knowledge base built with
   extreme longetivity in mind. Tikibase will be useful for the rest of your
   life!
