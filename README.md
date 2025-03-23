@@ -15,11 +15,11 @@ the software industry. I hope you find some of them useful! 🙏
   feedback from your test suite each time you save files in your editor or IDE.
   Currently supports [VSCode](https://github.com/contest-framework/vscode) and
   [Vim](https://github.com/contest-framework/vim).
-- [Run-that-app](https://github.com/kevgo/run-that-app) executes many small
-  development tools - like linters - that are often difficult to install.
-- [Multi-repo-tool](https://github.com/kevgo/multi-repo-tool) allows you to run
-  development tasks (cloning, compiling, linting, testing, etc) or even a custom
-  interactive shell on many repositories in one swoop.
+- [Run-that-app](https://github.com/kevgo/run-that-app) executes small
+  development tools without the need to install them.
+- [Multi-repo-tool](https://github.com/kevgo/multi-repo-tool) runs development
+  tasks (cloning, compiling, linting, testing, etc) or even a custom interactive
+  shell on many repositories using a single command.
 - [Atalanta](https://github.com/kevgo/atalanta) helps work with a large variety
   of code bases by listing and running development tasks defined in various
   places like `package.json`, `Makefile`, `Rakefile`, etc.
