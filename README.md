@@ -1,7 +1,7 @@
 ## Greetings! 👋
 
-Here are some open-source tools I created to automate tedious tasks around
-software development. I hope you find some of them useful! 🙏
+Here are some open-source tools I created to automate boring and repetitive
+activities around software development. I hope you find some of them useful! 🙏
 
 - [Git Town](https://github.com/git-town/git-town) synchronizes and manages Git
   branches, which reduces merge conflicts.
