@@ -9,12 +9,11 @@ the software industry. I hope you find some of them useful! 🙏
 - [Text-Runner](https://github.com/kevgo/text-runner) verifies content written
   in human languages for semantic correctness.
 - [Contest](https://github.com/contest-framework) automatically runs run unit
-  tests during development with zero keystrokes.
-- [Run-that-app](https://github.com/kevgo/run-that-app) executes small
-  development tools without the need to install them.
-- [Multi-repo-tool](https://github.com/kevgo/multi-repo-tool) runs development
-  tasks (cloning, compiling, linting, testing, etc) or even a custom interactive
-  shell on several repositories using a single command.
+  tests during development.
+- [Run-that-app](https://github.com/kevgo/run-that-app) executes applications
+  without the need to install them.
+- [Multi-repo-tool](https://github.com/kevgo/multi-repo-tool) runs CLI commands
+  or a custom interactive shell in multiple folders.
 - [Atalanta](https://github.com/kevgo/atalanta) helps work with a large variety
   of code bases by listing and executing development tasks defined in various
   places (like `package.json`, `Makefile`, `Rakefile`, etc) in a uniform way.
