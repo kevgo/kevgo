@@ -1,5 +1,3 @@
-## Kevgo's open-source applications
-
 Hi! 👋 Here are some open-source tools I created to automate boring and
 repetitive activities around software development. I hope you find some of them
 useful! 🙏
