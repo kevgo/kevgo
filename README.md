@@ -24,9 +24,9 @@ you find some of them useful for your own work! 🙏
 ### Libraries
 
 - [observable-process](https://github.com/kevgo/observable-process) allows
-  waiting for output from a subshell
+  waiting for output from a subshell.
 - [end-child-processes](https://github.com/kevgo/end-child-processes): ends all
-  subprocesses spawned by the current process
+  subprocesses spawned by the current process.
 - [jsonc-reader-ts](https://github.com/kevgo/jsonc-reader-ts) reads JSONC files
   in TypeScript.
 - [probot-kit](https://github.com/kevgo/probot-kit) provides tools to build
