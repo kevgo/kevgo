@@ -11,7 +11,7 @@ you find some of them useful for your own work! 🙏
 - [Run-that-app](https://github.com/kevgo/run-that-app) executes dev tools
   without the need to install them.
 - [Multi-repo-tool](https://github.com/kevgo/multi-repo-tool) runs CLI commands
-  or an interactive shell in multiple folders.
+  or an interactive shell in multiple folders/repositories.
 - [Atalanta](https://github.com/kevgo/atalanta) runs tasks defined in
   `package.json`, `Makefile`, `Rakefile`, etc, in a uniform way.
 - [Tikibase](https://github.com/kevgo/tikibase) is a knowledge base built with
