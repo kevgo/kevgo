@@ -32,8 +32,7 @@ you find some of them useful for your own work! 🙏
 - [probot-kit](https://github.com/kevgo/probot-kit) provides tools to build
   GitHub bots.
 - [assert-no-diff](https://github.com/kevgo/assert-no-diff) verifies equality of
-  various JavaScript variables with error messages that highlight differences in
-  ergonomic colors.
+  JavaScript variables with differences highlighted in colors.
 - [node-text-stream-search](https://github.com/kevgo/node-text-stream-search)
   searches for strings or regular expressions in Node.js streams.
 - [ActiveCucumber](https://github.com/kevgo/active_cucumber) creates
