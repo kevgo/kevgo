@@ -14,8 +14,8 @@ you find some of them useful for your own work! 🙏
   or an interactive shell in multiple folders/repositories.
 - [Atalanta](https://github.com/kevgo/atalanta) runs tasks defined in
   `package.json`, `Makefile`, `Rakefile`, etc, in a uniform way.
-- [Tikibase](https://github.com/kevgo/tikibase) is a knowledge base built with
-  extreme longetivity in mind.
+- [Tikibase](https://github.com/kevgo/tikibase) is a knowledge base built to
+  survive the next few generations of frontend and backend technology.
 - [has](https://github.com/kevgo/has) allows scripts to query a large variety of
   properties from codebases and Git repositories.
 - [VSCode Markdown IDE](https://github.com/kevgo/vscode-markdown-ide) provides
