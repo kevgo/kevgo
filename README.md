@@ -1,5 +1,5 @@
 Hi from **@kevgo**! 👋 Here are some open-source tools I made with ❤️ to
-automate boring and repetitive activities around software development. I hope
+automate yak shaving around software development. I hope
 you find some of them useful for your own work! 🙏
 
 - [Git Town](https://github.com/git-town/git-town) synchronizes and manages Git
