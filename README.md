@@ -1,4 +1,4 @@
-Hi from **@kevgo**! 👋 Here are some open-source tools I made with ❤️ to
+Hi from **@kevgo**! 👋 Here are some open-source applications I made with ❤️ to
 automate yak shaving around software development. I hope
 you find some of them useful for your own work! 🙏
 
