@@ -1,4 +1,4 @@
-Welcome! 👋 Here are some open-source applications I made to automate yak
+Hello! 👋 Here are some open-source applications I made to automate yak
 shaving around software development. I hope you find some of them useful for
 your own work! 🙏
 
