@@ -4,10 +4,10 @@ your own work! 🙏
 
 - [Git Town](https://github.com/git-town/git-town) synchronizes and manages Git
   branches, reduces merge conflicts.
-- [Text-Runner](https://github.com/kevgo/text-runner) verifies text written in
-  human language for semantic correctness.
 - [Contest](https://github.com/contest-framework) automatically runs run unit
   tests during development.
+- [Text-Runner](https://github.com/kevgo/text-runner) verifies text written in
+  human language for semantic correctness.
 - [Run-that-app](https://github.com/kevgo/run-that-app) executes dev tools
   without the need to install them.
 - [Multi-repo-tool](https://github.com/kevgo/multi-repo-tool) runs CLI commands
