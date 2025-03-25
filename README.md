@@ -7,8 +7,6 @@ your own work! 🙏
   branches, reduces merge conflicts.
 - [Contest](https://github.com/contest-framework) automatically runs run unit
   tests during development.
-- [Text-Runner](https://github.com/kevgo/text-runner) verifies text written in
-  human language for semantic correctness.
 - [Run-that-app](https://github.com/kevgo/run-that-app) executes dev tools
   without the need to install them.
 - [Multi-repo-tool](https://github.com/kevgo/multi-repo-tool) runs CLI commands
@@ -20,6 +18,8 @@ your own work! 🙏
 
 ### Documentation and Knowledge Management
 
+- [Text-Runner](https://github.com/kevgo/text-runner) verifies text written in
+  human language for semantic correctness.
 - [VSCode Markdown IDE](https://github.com/kevgo/vscode-markdown-ide) provides
   IDE-grade editing of Markdown files in VSCode.
 - [Tikibase](https://github.com/kevgo/tikibase) is a knowledge base built to
