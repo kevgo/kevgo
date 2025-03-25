@@ -1,4 +1,4 @@
-Hi from **@kevgo**! 👋 Here are some open-source applications I made with ❤️ to
+Welcome traveler! 👋 Here are some open-source applications I made to
 automate yak shaving around software development. I hope
 you find some of them useful for your own work! 🙏
 
