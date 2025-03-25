@@ -6,7 +6,7 @@ your own work! 🙏
 - [Git Town](https://github.com/git-town/git-town) synchronizes and manages Git
   branches, reduces merge conflicts.
 - [Contest](https://github.com/contest-framework) automatically runs run unit
-  tests during development.
+  tests while you work on code.
 - [Run-that-app](https://github.com/kevgo/run-that-app) executes dev tools
   without the need to install them.
 - [Multi-repo-tool](https://github.com/kevgo/multi-repo-tool) runs CLI commands
