@@ -14,8 +14,8 @@ your own work! 🙏
   or an interactive shell in multiple folders/repositories.
 - [Atalanta](https://github.com/kevgo/atalanta) runs tasks defined in
   `package.json`, `Makefile`, `Rakefile`, etc.
-- [has](https://github.com/kevgo/has) allows scripts to query a large variety of
-  properties from codebases and Git repositories.
+- [has](https://github.com/kevgo/has) query a large variety of properties from
+  codebases and Git repositories.
 
 ### Documentation and Knowledge Management
 
