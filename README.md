@@ -3,7 +3,7 @@ shaving around software development. I hope you find some of them useful for
 your own work! 🙏
 
 - [Git Town](https://github.com/git-town/git-town) synchronizes and manages Git
-  branches, and thereby reduces merge conflicts.
+  branches, reduces merge conflicts.
 - [Text-Runner](https://github.com/kevgo/text-runner) verifies text written in
   human language for semantic correctness.
 - [Contest](https://github.com/contest-framework) automatically runs run unit
