@@ -1,6 +1,7 @@
-Hello! 👋 Here are some open-source applications I made to automate yak
-shaving around software development. I hope you find some of them useful for
+Hello! 👋 Here are some open-source applications I made. I hope you find some of them useful for
 your own work! 🙏
+
+### Software Development
 
 - [Git Town](https://github.com/git-town/git-town) synchronizes and manages Git
   branches, reduces merge conflicts.
