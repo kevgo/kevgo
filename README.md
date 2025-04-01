@@ -11,7 +11,7 @@ your own work! 🙏
   tests while you work on code.
 - [Run-that-app](https://github.com/kevgo/run-that-app) executes dev tools
   without the need to install them.
-- [Atalanta](https://github.com/kevgo/atalanta) runs tasks defined in
+- [Atalanta](https://github.com/kevgo/atalanta) lists and runs tasks defined in
   `package.json`, `Makefile`, `Rakefile`, etc.
 - [Multi-repo-tool](https://github.com/kevgo/multi-repo-tool) runs CLI commands
   or an interactive shell in multiple folders/repositories.
