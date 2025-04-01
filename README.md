@@ -6,7 +6,7 @@ your own work! 🙏
 ### Software Development
 
 - [Git Town](https://github.com/git-town/git-town) synchronizes and manages Git
-  branches, reduces merge conflicts.
+  branches and stacks, reduces merge conflicts.
 - [Contest](https://github.com/contest-framework) automatically runs run unit
   tests while you work on code.
 - [Run-that-app](https://github.com/kevgo/run-that-app) executes dev tools
