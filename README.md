@@ -1,7 +1,7 @@
 ### Hi, I'm @kevgo 👋
 
 Here are some open-source applications I made. I hope you find some of them useful for
-your own work! 🙏
+your own work.
 
 ### Software Development
 
