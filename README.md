@@ -27,7 +27,7 @@ your own work.
 - [Tikibase](https://github.com/kevgo/tikibase) is a knowledge base built to
   survive the next few generations of frontend and backend technology.
 
-### Libraries
+### Software Libraries
 
 - [observable-process](https://github.com/kevgo/observable-process) allows
   waiting for output from a subshell.
