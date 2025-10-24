@@ -7,8 +7,8 @@ your own work.
 
 - [Git Town](https://github.com/git-town/git-town) synchronizes and manages Git
   branches and stacks, reduces merge conflicts.
-- [Cucumber-Sort](https://github.com/kevgo/cucumber-sort) a linter that verifies
-  and fixes the order of steps in Cucumber files  
+- [Cucumber-Sort](https://github.com/kevgo/cucumber-sort) verifies and fixes
+  the order of steps in Cucumber files.
 - [Contest](https://github.com/contest-framework) automatically runs run unit
   tests while you work on code.
 - [Run-that-app](https://github.com/kevgo/run-that-app) executes dev tools
