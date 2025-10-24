@@ -17,6 +17,8 @@ your own work.
   or an interactive shell in multiple folders/repositories.
 - [Has](https://github.com/kevgo/has) query a large variety of properties from
   codebases and Git repositories.
+- [Cucumber-Sort](https://github.com/kevgo/cucumber-sort) a linter that verifies
+  and fixes the order of steps in Cucumber files  
 
 ### Documentation and Knowledge Management
 
