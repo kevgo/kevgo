@@ -7,10 +7,10 @@ your own work.
 
 - [Git Town](https://github.com/git-town/git-town) synchronizes and manages Git
   branches and stacks, reduces merge conflicts.
-- [Contest](https://github.com/contest-framework) automatically runs run unit
-  tests while you work on code.
 - [Cucumber-Sort](https://github.com/kevgo/cucumber-sort) a linter that verifies
   and fixes the order of steps in Cucumber files  
+- [Contest](https://github.com/contest-framework) automatically runs run unit
+  tests while you work on code.
 - [Run-that-app](https://github.com/kevgo/run-that-app) executes dev tools
   without the need to install them.
 - [Atalanta](https://github.com/kevgo/atalanta) lists and runs tasks defined in
