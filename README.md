@@ -9,6 +9,8 @@ your own work.
   branches and stacks, reduces merge conflicts.
 - [Contest](https://github.com/contest-framework) automatically runs run unit
   tests while you work on code.
+- [Cucumber-Sort](https://github.com/kevgo/cucumber-sort) a linter that verifies
+  and fixes the order of steps in Cucumber files  
 - [Run-that-app](https://github.com/kevgo/run-that-app) executes dev tools
   without the need to install them.
 - [Atalanta](https://github.com/kevgo/atalanta) lists and runs tasks defined in
@@ -17,8 +19,6 @@ your own work.
   or an interactive shell in multiple folders/repositories.
 - [Has](https://github.com/kevgo/has) query a large variety of properties from
   codebases and Git repositories.
-- [Cucumber-Sort](https://github.com/kevgo/cucumber-sort) a linter that verifies
-  and fixes the order of steps in Cucumber files  
 
 ### Documentation and Knowledge Management
 
