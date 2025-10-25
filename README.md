@@ -3,7 +3,7 @@
 Here are some open-source applications I made. I hope you find some of them useful for
 your own work.
 
-### Software Development Tools
+### Software Development
 
 - [Git Town](https://github.com/git-town/git-town) synchronizes and manages Git
   branches and stacks, reduces merge conflicts.
