@@ -10,7 +10,7 @@ your own work.
 - [Cucumber-Sort](https://github.com/kevgo/cucumber-sort) verifies and fixes
   the order of steps in Cucumber files.
 - [Contest](https://github.com/contest-framework) automatically runs run unit
-  tests while you work on code.
+  tests in your terminal while you work on code.
 - [Run-that-app](https://github.com/kevgo/run-that-app) executes dev tools
   without the need to install them.
 - [Atalanta](https://github.com/kevgo/atalanta) lists and runs tasks defined in
