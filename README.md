@@ -12,7 +12,7 @@ your own work.
 - [Contest](https://github.com/contest-framework) automatically runs run unit
   tests in your terminal while you work on code.
 - [Run-that-app](https://github.com/kevgo/run-that-app) executes dev tools
-  without the need to install them.
+  without the need to install or dockerize them.
 - [Atalanta](https://github.com/kevgo/atalanta) lists and runs tasks defined in
   `package.json`, `Makefile`, `Rakefile`, etc.
 - [Multi-repo-tool](https://github.com/kevgo/multi-repo-tool) runs CLI commands
