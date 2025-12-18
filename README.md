@@ -5,7 +5,7 @@ your own work.
 
 ### Developer Experience
 
-- [Git Town](https://github.com/git-town/git-town) synchronizes and manages Git
+- [Git Town](https://github.com/git-town/git-town) manages and synchronizes Git
   branches and stacks, reduces merge conflicts.
 - [Cucumber-Sort](https://github.com/kevgo/cucumber-sort) verifies and fixes
   the order of steps in Cucumber files.
