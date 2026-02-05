@@ -7,14 +7,14 @@ your own work.
 
 - [Git Town](https://github.com/git-town/git-town) manages and synchronizes Git
   branches and stacks, reduces merge conflicts.
-- [Cucumber-Sort](https://github.com/kevgo/cucumber-sort) verifies and fixes
-  the order of steps in Cucumber files.
 - [Contest](https://github.com/contest-framework) automatically runs run unit
   tests in your terminal while you work on code.
 - [Run-that-app](https://github.com/kevgo/run-that-app) executes dev tools
   without the need to install or dockerize them.
 - [Atalanta](https://github.com/kevgo/atalanta) lists and runs tasks defined in
   `package.json`, `Makefile`, `Rakefile`, etc.
+- [Cucumber-Sort](https://github.com/kevgo/cucumber-sort) verifies and fixes
+  the order of steps in Cucumber files.
 - [Multi-repo-tool](https://github.com/kevgo/multi-repo-tool) runs CLI commands
   or an interactive shell in multiple folders/repositories.
 - [Has](https://github.com/kevgo/has) queries a large variety of properties from
