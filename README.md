@@ -17,8 +17,7 @@ your own work.
   the order of steps in Cucumber files.
 - [Multi-repo-tool](https://github.com/kevgo/multi-repo-tool) runs CLI commands
   or an interactive shell in multiple folders/repositories.
-- [Has](https://github.com/kevgo/has) queries a large variety of properties from
-  codebases and Git repositories.
+- [Has](https://github.com/kevgo/has) queries properties from codebases and Git repositories.
 
 ### Documentation and Knowledge Management
 
